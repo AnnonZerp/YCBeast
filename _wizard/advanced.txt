@@ -1,0 +1,17 @@
+name="Test Advanced 1"
+url="http://ycrepo.info/ycbeast/wizard/advancedsettings1.xml"
+icon="http://aftermathwizard.net/repo/wizard/icon.png" 
+fanart="http://aftermathwizard.net/repo/wizard/fanart.jpg"
+description="Example of advancedsettings.xml"
+
+name="Test Advanced 2"
+url="http://ycrepo.info/ycbeast/wizard/advancedsettings2.xml"
+icon="http://aftermathwizard.net/repo/wizard/icon.png" 
+fanart="http://aftermathwizard.net/repo/wizard/fanart.jpg"
+description="Example of advancedsettings.xml"
+
+name="Test Advanced 0 Cache"
+url="http://ycrepo.info/ycbeast/wizard/advancedsettings0.xml"
+icon="http://aftermathwizard.net/repo/wizard/icon.png" 
+fanart="http://aftermathwizard.net/repo/wizard/fanart.jpg"
+description="Example of advancedsettings.xml"

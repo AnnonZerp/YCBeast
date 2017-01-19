@@ -1,0 +1,22 @@
+id="plugin.program.ycwizard"
+version="0.0.2b"
+zip="http://ycrepo.info/ycbeast/repo/plugin.program.ycbeast/plugin.program.ycwizard-0.1.1.zip"
+
+name="YCBeast"
+version="0.2"
+url="https://www.dropbox.com/s/9trvm8rai7yh4xp/ycbeast.zip?dl=1"
+gui="http://ycrepo.info/ycbeast/wizard/ycbeast_guisettings.zip"
+kodi="16.1"
+theme="http://"
+icon="http://ycrepo.info/ycbeast/Pics/ycbeast-icon.png"
+fanart="http://ycrepo.info/ycbeast/Pics/fanart.jpg"
+
+name="YCBeast Build 2"
+version="0.2"
+url="https://www.dropbox.com/s/9trvm8rai7yh4xp/ycbeast.zip?dl=1"
+gui="http://ycrepo.info/ycbeast/wizard/ycbeast_guisettings.zip"
+kodi="16.1"
+theme="http://"
+icon="http://ycrepo.info/ycbeast/Pics/ycbeast-jason-mask.png"
+fanart="http://ycrepo.info/ycbeast/Pics/fanart.jpg"
+

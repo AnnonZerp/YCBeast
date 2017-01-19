@@ -1,0 +1,13 @@
+name="UK TV NOW 6.2 (FIRE TV)"
+url="https://goo.gl/HepqVF"
+icon="http://kobracustombuilds.com/apks/img/uktvnow6.png" 
+fanart="http://kobracustombuilds.com/apks/fanart/fanart3.jpg"
+adult="No"
+description="Uk TV Now 6.2"
+
+name="UK TV NOW 5.4"
+url="https://goo.gl/0e59sR"
+icon="http://kobracustombuilds.com/apks/img/uktvnow6.png" 
+fanart="http://kobracustombuilds.com/apks/fanart/fanart3.jpg"
+adult="Yes"
+description="Uk TV Now 5.4"

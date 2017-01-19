@@ -1,0 +1,9 @@
+name="Default theme"
+url="http://ycrepo.info/ycbeast/wizard/ycbeast.zip"
+icon="http://ycrepo.info/ycbeast/Pics/ycbeast-icon.png"
+fanart="http://ycrepo.info/ycbeast/Pics/fanart.jpg"
+
+name="Red theme"
+url="http://aftermathwizard.net/repo/builds/theme2.zip"
+icon="http://aftermathwizard.net/img/test2.png"
+fanart="http://aftermathwizard.net/img/test2.png"

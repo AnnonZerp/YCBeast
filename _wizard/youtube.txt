@@ -1,0 +1,17 @@
+name="YCBeast Update 12072016"
+url="https://youtu.be/Id4cTrXyuXs"
+icon="https://i.ytimg.com/vi/Id4cTrXyuXs/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pDUZ_rR2uHa4rBE41EixwMMAIuU"
+fanart="http://ycrepo.info/ycbeast/Pics/fanart.png"
+description="YCBeast Update 12072016"
+
+name="How to install/upgrade YCBeast"
+url="https://youtu.be/XTuIhh9pNxs"
+icon="https://i.ytimg.com/vi/XTuIhh9pNxs/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8jBco2mpljuMmB1qso7vA-Lc0AY"
+fanart="http://ycrepo.info/ycbeast/Pics/fanart.png"
+description="Guide to installing/upgrading YCBeast"
+
+name="Sneak Peak at the Next YCBeast Build"
+url="https://youtu.be/Id4cTrXyuXs"
+icon="https://i.ytimg.com/vi/Id4cTrXyuXs/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pDUZ_rR2uHa4rBE41EixwMMAIuU"
+fanart="http://ycrepo.info/ycbeast/Pics/fanart.png"
+description="Sneak Peak at the Next YCBeast Build"

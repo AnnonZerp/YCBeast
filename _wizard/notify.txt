@@ -1,0 +1,7 @@
+1
+|||
+What is the YCBeast build?
+
+Simply put, the YCBeast build is a version of Kodi/XBMC that comes pre-baked with all the most popular add-ons, plug-ins and repositories already downloaded, installed and configured.
+
+I have tailor-made the YCBeast build for your Fire Stick. The YCBeast build gives you everything youd want from a Kodi installation – and its quick and responsive, too. Learn More Here: http://bit.do/ycbeastw
